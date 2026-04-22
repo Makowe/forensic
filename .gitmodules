@@ -1,0 +1,6 @@
+[submodule "avdecrypt"]
+	path = avdecrypt
+	url = ./avdecrypt
+[submodule "dfxml_python"]
+	path = dfxml_python
+	url = ./dfxml_python/
