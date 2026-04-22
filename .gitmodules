@@ -1,6 +1,6 @@
 [submodule "avdecrypt"]
 	path = avdecrypt
-	url = ./avdecrypt
+	url = https://faui1-gitlab.cs.fau.de/gaston.pugliese/avdecrypt.git
 [submodule "dfxml_python"]
 	path = dfxml_python
-	url = ./dfxml_python/
+	url = https://github.com/dfxml-working-group/dfxml_python.git
